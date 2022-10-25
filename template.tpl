@@ -1,4 +1,6 @@
+___INFO___
+
 {
-  "displayName": "Example Template",
+  "displayName": "LORA Template",
   "categories": ["ANALYTICS", "CONVERSIONS"],
 }
