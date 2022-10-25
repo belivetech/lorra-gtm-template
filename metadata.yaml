@@ -1,5 +1,5 @@
 homepage: "https://lora.belive.sg"
 documentation: "https://docs.belive.sg"
 versions:
-  - sha: e76652a6517dd8f592588d3302631a08c56ec687
+  - sha: 404651e5e2342f9c4ba0181e803c996f45efbeba
     changeNotes: Initial commit.
