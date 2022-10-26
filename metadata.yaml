@@ -15,5 +15,5 @@
 homepage: "https://belive.technology"
 documentation: "https://docs.belive.sg"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 6056cf4e4895ce40f4cdf0adb4ce936e6e3ea8e8
     changeNotes: Initial Version
