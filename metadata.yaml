@@ -1,5 +1,5 @@
 homepage: "https://belive.technology"
 documentation: "https://docs.belive.sg"
 versions:
-  - sha: e0b998e751e48b28cc6b3bfff1638736f0b26cff
-    changeNotes: fix template
+  - sha: ea64540dc401164aa7378ea63d91d14f58873854
+    changeNotes: Update homepage
